@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFrmMp4ToMp3", "WinFrmMp4ToMp3.csproj", "{F6A5773D-DA16-4EF6-A2E3-BE83D73AC7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A5773D-DA16-4EF6-A2E3-BE83D73AC7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A5773D-DA16-4EF6-A2E3-BE83D73AC7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A5773D-DA16-4EF6-A2E3-BE83D73AC7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A5773D-DA16-4EF6-A2E3-BE83D73AC7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {747E9B02-BAD5-45C4-8F48-0E71DC2C9889}
+	EndGlobalSection
+EndGlobal
